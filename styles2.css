@@ -1,0 +1,19 @@
+body {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+p {
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+
+.sem-text-decoration {
+    text-decoration: none;
+}
+
+body {
+    background: red;
+}
